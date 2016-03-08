@@ -163,7 +163,7 @@ Command and aliases | Description | Usage
 `,endwar`, `,ew`  |  Ends the war with a given index. | ,ew [war_number]
 `>choose`  |  Chooses a thing from a list of things |  >choose Get up;Sleep;Sleep more
 `>8ball`  |  Ask the 8ball a yes/no question.
-`>`  |  Attack a person. Supported attacks: 'splash', 'strike', 'burn', 'surge'. |  > strike @User
+`>attack`  |  Attack a person. Supported attacks: 'splash', 'strike', 'burn', 'surge'. |  >attack strike @User
 `poketype`  |  Gets the users element type. Use this to do more damage with strike!
 
 ### Music  
